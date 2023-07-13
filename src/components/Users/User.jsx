@@ -25,7 +25,7 @@ export const User = ({
     <img 
       onClick={() => onClickInvite(id)} 
       className="action" 
-      src={`/assets/${isInvited ? 'minus' : 'plus'}.svg`} 
+      src={`${process.env.PUBLIC_URL}/assets/${isInvited ? 'minus' : 'plus'}.svg`} 
       alt="Action" 
     />
   </li>
