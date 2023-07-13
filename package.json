@@ -1,6 +1,6 @@
 {
-  "name": "guests_list",
-  "homepage": "https://sasdaiv.github.io/guests_list",
+  "name": "guests_list_pet",
+  "homepage": "https://sasdaiv.github.io/guests_list_pet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
